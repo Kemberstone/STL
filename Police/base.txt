@@ -1,20 +1,3 @@
-А001EB:
-	Проезд на красный                           Octyabrskaya street
-	Езда в нетрезвом виде                       Space street
-
-------------------------------------------
-
-А123BB:
-	Непристегнутый ремень безопасности          Proletarskaya street
-	Езда в нетрезвом виде                       Vatutina street
-
-------------------------------------------
-
-А777АА:
-	Превышение скорости                         Lenina street 3
-	Проезд на красный                           Lenina street
-	Езда в нетрезвом виде                       Entuziastov street
-	Оскорбление офицера                         Entuziastov street
-
-------------------------------------------
-
+А001EB:5 Octyabrskaya street,7 Space street,
+А123BB:2 Proletarskaya street,7 Vatutina street,
+А777АА:4 Lenina street 3,5 Lenina street,7 Entuziastov street,8 Entuziastov street,
